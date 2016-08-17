@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Eightball</string>
+    <string name="question">Ask a question</string>
+    <string name="shake">Shake the ball</string>
+    <string name="answer">Computer says...</string>
+    <string name="answer2">Exsercise answerable...</string>
+    <string name="button2">button 2...</string>
+    <string name="fun">fun</string>
+    <string name="funanswer">fun answer</string>
+
+
+
+</resources>
